@@ -1,2 +1,2 @@
 Hallo Welt!
-Pluto ist ein Planet!
+Pluto ist kein Planet!
